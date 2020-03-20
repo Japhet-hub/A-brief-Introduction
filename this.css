@@ -1,0 +1,24 @@
+.row1{
+    display: flex;
+    /* background-color: honeydew; */
+    
+    
+
+}
+.one{
+    height: 55vh;
+    width: 45vw;
+}
+.red{
+    color: #ff0000;
+}
+.purple{
+    color: #800080;
+}
+.row2{
+    display: flex;
+}
+img{
+    width: 30vw;
+    height: 50vh;
+}
